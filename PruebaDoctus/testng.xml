@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="InformeReporteDoctus">
+  <test name="InformeAutomatizacionPrueba">
+    <classes>
+      <class name="co.com.pruebasdecalidad.pruebadoctus.ProteccionDoctus"/>
+    </classes>
+  </test> <!-- InformeAutomatizacionPrueba -->
+</suite> <!-- InformeReporteDoctus -->

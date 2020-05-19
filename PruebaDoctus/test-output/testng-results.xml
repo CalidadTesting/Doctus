@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="73995" started-at="2020-05-18T23:42:28Z" finished-at="2020-05-18T23:43:42Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="73995" started-at="2020-05-18T23:42:28Z" finished-at="2020-05-18T23:43:42Z">
+      <class name="co.com.pruebasdecalidad.pruebadoctus.ProteccionDoctus">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:co.com.pruebasdecalidad.pruebadoctus.ProteccionDoctus@3ffc5af1]" name="beforeClass" is-config="true" duration-ms="58062" started-at="2020-05-18T18:42:28Z" finished-at="2020-05-18T18:43:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="iniciar_Sesion()[pri:0, instance:co.com.pruebasdecalidad.pruebadoctus.ProteccionDoctus@3ffc5af1]" name="iniciar_Sesion" duration-ms="5143" started-at="2020-05-18T18:43:27Z" finished-at="2020-05-18T18:43:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- iniciar_Sesion -->
+        <test-method status="PASS" signature="registrase()[pri:1, instance:co.com.pruebasdecalidad.pruebadoctus.ProteccionDoctus@3ffc5af1]" name="registrase" duration-ms="4063" started-at="2020-05-18T18:43:32Z" finished-at="2020-05-18T18:43:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registrase -->
+        <test-method status="PASS" signature="olvido_Mi_Contrasena()[pri:2, instance:co.com.pruebasdecalidad.pruebadoctus.ProteccionDoctus@3ffc5af1]" name="olvido_Mi_Contrasena" duration-ms="1747" started-at="2020-05-18T18:43:36Z" finished-at="2020-05-18T18:43:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- olvido_Mi_Contrasena -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:co.com.pruebasdecalidad.pruebadoctus.ProteccionDoctus@3ffc5af1]" name="afterClass" is-config="true" duration-ms="4811" started-at="2020-05-18T18:43:38Z" finished-at="2020-05-18T18:43:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- co.com.pruebasdecalidad.pruebadoctus.ProteccionDoctus -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
